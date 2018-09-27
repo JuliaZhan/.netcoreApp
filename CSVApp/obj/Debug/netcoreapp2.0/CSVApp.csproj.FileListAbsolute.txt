@@ -1,0 +1,11 @@
+D:\jmix\CSVApp\CSVApp\bin\Debug\netcoreapp2.0\CSVApp.deps.json
+D:\jmix\CSVApp\CSVApp\bin\Debug\netcoreapp2.0\CSVApp.runtimeconfig.json
+D:\jmix\CSVApp\CSVApp\bin\Debug\netcoreapp2.0\CSVApp.runtimeconfig.dev.json
+D:\jmix\CSVApp\CSVApp\bin\Debug\netcoreapp2.0\CSVApp.dll
+D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.csprojAssemblyReference.cache
+D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.csproj.CoreCompileInputs.cache
+D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.AssemblyInfoInputs.cache
+D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.AssemblyInfo.cs
+D:\jmix\CSVApp\CSVApp\bin\Debug\netcoreapp2.0\CSVApp.pdb
+D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.dll
+D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.pdb
