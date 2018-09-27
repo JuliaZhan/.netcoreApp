@@ -22,10 +22,11 @@ namespace CSVApp.Common
         static Log()
         {
             #region---日志地址---
-            string dirpath = ConfigurationManager.Get("LogPath");
+            string dirpath = System.Configuration.ConfigurationManager.AppSettings.Get("LogPath");
+            //string dirpath = ConfigurationManager.Get("LogPath");
             if (string.IsNullOrEmpty(dirpath))
                 dirpath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData);
-            softName = ConfigurationManager.Get("SoftName");
+            softName = System.Configuration.ConfigurationManager.AppSettings.Get("SoftName");
             if (string.IsNullOrEmpty(softName))
                 softName = System.Diagnostics.Process.GetCurrentProcess().MainModule.ModuleName;
             logDir = System.IO.Path.Combine(dirpath, softName);

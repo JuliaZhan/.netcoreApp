@@ -9,3 +9,4 @@ D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.AssemblyInfo.cs
 D:\jmix\CSVApp\CSVApp\bin\Debug\netcoreapp2.0\CSVApp.pdb
 D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.dll
 D:\jmix\CSVApp\CSVApp\obj\Debug\netcoreapp2.0\CSVApp.pdb
+D:\jmix\CSVApp\CSVApp\bin\Debug\netcoreapp2.0\CSVApp.dll.config
